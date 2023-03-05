@@ -1,0 +1,4 @@
+KELOMPOK PENGINTAI
+1772048 - Yussar Ma'arif Volindra Pratama - PHP Database Connection
+1972039 - Bryan Naibaho - Database Connection, Boostrap
+2172001 - Bryan Matthews - Database Input, Boostrap
